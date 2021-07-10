@@ -6,7 +6,7 @@
 [![Gandeepkt GitHub stats](https://github-readme-stats.vercel.app/api?username=Gandeepkt&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandeepkt&show_icons=true&theme=radical)](https://github.com/chaiyapatoam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gandeepkt&show_icons=true&theme=radical)](https://github.com/Gandeepkt/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
